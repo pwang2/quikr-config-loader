@@ -1,0 +1,24 @@
+{
+  "name": "quikr-config-loader",
+  "version": "2.1.28",
+  "description": "webpack loader to load the config",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bluebird": "^3.4.1",
+    "extend": "^3.0.0",
+    "fs-extra": "^0.30.0",
+    "glob": "^7.0.5",
+    "glob-promise": "^1.0.6",
+    "hasha": "^2.2.0",
+    "jsonator": "git+https://github.com/sebdm/jsonator.git",
+    "loader-utils": "^0.2.15",
+    "typson": "git+https://github.com/pwang2/typson.git",
+    "underscore.string": "^3.3.4"
+  }
+}
